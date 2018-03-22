@@ -1,6 +1,6 @@
 # Welcome!
 
-Ce modèle Python te laisse commencer rapidement avec un exemple de travail simple. Si c'est ta première contribution il serait bon jeter un oeil sur le document [Getting Started](https://tech.io/doc/getting-started-create-playground) document.
+Ce modèle Python te permet de commencer rapidement avec un exemple simple. Si c'est ta première contribution il serait bon jeter un oeil sur le document [Getting Started](https://tech.io/doc/getting-started-create-playground).
 
 
 The source code is on [GitHub](https://github.com/TechDotIO/python-template), please feel free to come up with proposals to improve it.
